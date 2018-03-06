@@ -31,7 +31,7 @@ def Input_url():
     
 if __name__ == '__main__':
     master = tkinter.Tk()
-    master.title('GoogleTranslate')
+    master.title('VideoPlayer')
     master.geometry("400x300+200+100")
     Input_url()
     master.mainloop()
