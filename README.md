@@ -54,3 +54,17 @@ win10
 ## 下载软件
 
 该视频播放器已经放到百度网盘上，需要的可以自行下载,链接：[https://pan.baidu.com/s/17CX1Lp9UQfE8Y0nnCOVSFQ](https://pan.baidu.com/s/17CX1Lp9UQfE8Y0nnCOVSFQ) 密码：bvta
+
+## 补充
+
+由于感觉每次想看视频，还得打开网页复制粘贴链接比较麻烦，所有又动手写了一个输入视频名称，自动打开浏览器播放视频的应用程序，效果如下：
+
+![](http://119.29.89.242/image/Video_Player_5.png)
+
+![](http://119.29.89.242/image/Video_Player_6.png)
+
+![](http://119.29.89.242/image/Video_Player_7.png)
+
+该应用程序支持播放**电影，综艺，电视剧，**播放综艺时，默认播放最新一期，电视剧默认播放第一集(不太方便，能力有限，凑合用吧)。当我们看综艺节目或者电视剧时，如果想要看下一集或下一期，点击**下一集按钮就可以了。**
+
+该视频播放器已经放到百度网盘上，需要的可以自行下载,链接：[https://pan.baidu.com/s/10Rt7HajfOjiJBiLiSwF5sA](https://pan.baidu.com/s/10Rt7HajfOjiJBiLiSwF5sA) 密码：scv0
