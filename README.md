@@ -53,7 +53,7 @@ win10
 
 ## 下载软件
 
-该视频播放器已经放到百度网盘上，需要的可以自行下载,链接：[https://pan.baidu.com/s/17CX1Lp9UQfE8Y0nnCOVSFQ](https://pan.baidu.com/s/17CX1Lp9UQfE8Y0nnCOVSFQ) 密码：bvta
+该视频播放器已经放到百度网盘上，需要的可以自行下载,链接：[https://pan.baidu.com/s/1eG4D533M5U9n1dpsyF0B1Q](https://pan.baidu.com/s/1eG4D533M5U9n1dpsyF0B1Q) 密码：bjix
 
 ## 补充
 
@@ -67,4 +67,4 @@ win10
 
 该应用程序支持播放**电影，综艺，电视剧，**播放综艺时，默认播放最新一期，电视剧默认播放第一集(不太方便，能力有限，凑合用吧)。当我们看综艺节目或者电视剧时，如果想要看下一集或下一期，点击**下一集按钮就可以了。**
 
-该视频播放器已经放到百度网盘上，需要的可以自行下载,链接：[https://pan.baidu.com/s/10Rt7HajfOjiJBiLiSwF5sA](https://pan.baidu.com/s/10Rt7HajfOjiJBiLiSwF5sA) 密码：scv0
+该视频播放器已经放到百度网盘上，需要的可以自行下载,链接：[https://pan.baidu.com/s/1OccGnPp_fm9pGzn-bIdSIQ](https://pan.baidu.com/s/1OccGnPp_fm9pGzn-bIdSIQ) 密码：9ujs
